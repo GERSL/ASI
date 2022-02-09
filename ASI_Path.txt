@@ -1,2 +1,2 @@
 .\test_data\LC08_L2SP_044034_20201012_02_T1_SR_B234567_SF.dat
-.\test_results\L8_ASI_WaterMasked1
+.\test_results\L8_ASI_WaterMasked
