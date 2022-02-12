@@ -1,5 +1,5 @@
 # ASI
-This code package is for calculating Artificial Surface Index (ASI). ASI is developed based on Landsat 8 imagery, and it can be applied to satellite imagery with similar spectral bands.
+This MATLAB code package is for calculating Artificial Surface Index (ASI). ASI was developed based on Landsat 8 imagery, but it can be applied to satellite imagery with similar spectral bands.
 
 
 References:
